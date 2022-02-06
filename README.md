@@ -4,7 +4,6 @@
 
 A Utils kernel for JupyterLite running in the browser.
 
-![jupyterlite-xeus-utils-kernel](https://user-images.githubusercontent.com/591645/151932680-5e568933-6e95-44aa-b34d-ff5c4f877559.png)
 
 ## Requirements
 
